@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Omich Notes (build 1.1.0).apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '27'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 1.1.0
+versionInfo:
+  versionCode: '1100'
+  versionName: 1.1.0

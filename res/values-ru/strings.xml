@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption">Заметки</string>
+    <string name="caption_main">Заметки</string>
+    <string name="caption_editor">Новая заметка</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_rename">Переименовать</string>
+    <string name="menu_share">Отправить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="text_empty">Нет заметок</string>
+    <string name="text_edited">Изменено</string>
+    <string name="text_read_error">Ошибка при чтении</string>
+    <string name="text_write_error">Ошибка при записи</string>
+    <string name="text_send_error">Ошибка при отправке</string>
+    <string name="text_mount_error">Карта памяти не подключена</string>
+    <string name="text_delete_ask">Удалить заметку?</string>
+    <string name="text_rename">Введите название заметки</string>
+    <string name="dialog_button_yes">Да</string>
+    <string name="dialog_button_no">Нет</string>
+</resources>

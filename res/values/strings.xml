@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption">Notes</string>
+    <string name="caption_main">Notes</string>
+    <string name="caption_editor">New note</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_delete">Delete</string>
+    <string name="text_empty">No notes</string>
+    <string name="text_edited">Edited</string>
+    <string name="text_read_error">Reading error</string>
+    <string name="text_write_error">Writing error</string>
+    <string name="text_send_error">Sending error</string>
+    <string name="text_mount_error">SD Card unmounted</string>
+    <string name="text_delete_ask">Delete note?</string>
+    <string name="text_rename">Enter note name</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+</resources>
