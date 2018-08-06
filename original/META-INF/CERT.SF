@@ -1,14 +1,18 @@
 Signature-Version: 1.0
 Created-By: 1.0 (MT_Bin)
-SHA1-Digest-Manifest: Q/yD+6rFS43VOH0Gak0YGuCFnnk=
+SHA1-Digest-Manifest: +jdZrL3G8CBCT7s2sGqVYA8L2CI=
 
 
-Name: res/drawable-xhdpi-v4/ic_launcher.png
-SHA1-Digest: eMUY0CsPqq4AyyJ6NzuhQINNdOg=
+Name: res/xml/shortcuts.xml
+SHA1-Digest: 5/fKfdNnMhLO7JaJdS5mzeB2Dks=
 
 
-Name: res/drawable/ic_launcher.png
-SHA1-Digest: cFYmidJWxszYmmjnUcLQbKhgKHU=
+Name: res/drawable-xxhdpi-v4/re_icon.png
+SHA1-Digest: 7QlWhIp3tHjmcGLSwbZkgaSuwpU=
+
+
+Name: res/drawable-xhdpi-v4/re_icon.png
+SHA1-Digest: n2egZH5XfofCrlRNB11dYJ+eyMM=
 
 
 Name: res/drawable-xhdpi-v4/ic_action_new.png
@@ -19,28 +23,60 @@ Name: res/drawable-xhdpi-v4/ic_action_save.png
 SHA1-Digest: 3LBctx3vBSkwMU9KgRfBTNJ6SZk=
 
 
-Name: res/drawable-xxhdpi-v4/ic_launcher.png
-SHA1-Digest: VzVJPoNZ7ysLDx0pcQPc0HlffFs=
+Name: res/drawable/re_icon_round.png
+SHA1-Digest: LD7NrzPmFh5Ds22aQiPz1czgelQ=
+
+
+Name: res/drawable-xxhdpi-v4/shortcut_n.png
+SHA1-Digest: McJnNjKLmCIunczdJRQNoYsfJls=
 
 
 Name: res/drawable/ic_action_new.png
 SHA1-Digest: klC/ci0rX0KttruZ65kfs8/iK3M=
 
 
+Name: res/drawable-xhdpi-v4/re_icon_round.png
+SHA1-Digest: 8cGxNPouqCB+WGgWIvt4dHMnJ6I=
+
+
+Name: res/drawable/shortcut_n.png
+SHA1-Digest: tdXYP69d9jQyyeYJddADXWn85fk=
+
+
 Name: res/drawable/ic_action_save.png
 SHA1-Digest: 0bvwSKAx2W8DObcA2vkEjW02aP8=
 
 
-Name: res/drawable-hdpi-v4/ic_launcher.png
-SHA1-Digest: PhujgBiISyEyiP9H/07BxCf2i5E=
+Name: res/drawable-hdpi-v4/re_icon.png
+SHA1-Digest: Ox5Vr9fEJvv0rtaJV4ohNk7Mx2E=
+
+
+Name: res/drawable-xhdpi-v4/shortcut_n.png
+SHA1-Digest: gAs+v87ah5f7mGnIRidqY0ynjUU=
+
+
+Name: res/drawable/re_icon.png
+SHA1-Digest: fWqQp0Ry+6UQ09GJktzWZmTOWe0=
+
+
+Name: res/drawable-xxhdpi-v4/re_icon_round.png
+SHA1-Digest: G+kONJTu+dJDGLLiI57SHbxnnso=
 
 
 Name: AndroidManifest.xml
-SHA1-Digest: UVcizN7ZfCQOJGEYBia0aLWC0BE=
+SHA1-Digest: +zB4C+PS7mk9jI2U+9CBRgVG75E=
+
+
+Name: res/drawable-hdpi-v4/shortcut_n.png
+SHA1-Digest: CQb5uswwSDv/V2hfnIh7DWVk5tA=
+
+
+Name: res/drawable-hdpi-v4/re_icon_round.png
+SHA1-Digest: cvAKPx5mOuqLhZXSyGeVdeXpbwU=
 
 
 Name: resources.arsc
-SHA1-Digest: 0cgNMXbEcHKi4Aqf0/5lnWsN02w=
+SHA1-Digest: XGZS9OsH7ahUW0YsLogVAxuvcsA=
 
 
 Name: res/drawable-hdpi-v4/ic_action_save.png

@@ -18,4 +18,5 @@
     <string name="text_rename">Введите название заметки</string>
     <string name="dialog_button_yes">Да</string>
     <string name="dialog_button_no">Нет</string>
+    <string name="shortcut_label_1">Новая заметка</string>
 </resources>

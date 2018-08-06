@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.omichsoft.notes" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/caption" android:theme="@style/Theme">
+    <application android:allowBackup="true" android:icon="@drawable/re_icon" android:label="@string/caption" android:roundIcon="@drawable/re_icon_round" android:theme="@style/Theme">
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/caption_main" android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+            <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts"/>
         </activity>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name=".Editor" android:windowSoftInputMode="stateHidden"/>
         <provider android:authorities="com.omichsoft.notes.RequestAllPermissionsProvider" android:name="com.omichsoft.notes.classes.RequestAllPermissionsProvider"/>

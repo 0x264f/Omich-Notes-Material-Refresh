@@ -18,4 +18,5 @@
     <string name="text_rename">Enter note name</string>
     <string name="dialog_button_yes">Yes</string>
     <string name="dialog_button_no">No</string>
+    <string name="shortcut_label_1">New note</string>
 </resources>

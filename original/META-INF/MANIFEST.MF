@@ -1,11 +1,15 @@
 Manifest-Version: 1.0
 Created-By: 1.0 (MT)
 
-Name: res/drawable-xhdpi-v4/ic_launcher.png
+Name: res/xml/shortcuts.xml
+SHA1-Digest: s6v6R5qthS+5EDDBaTX4Ss0VlYE=
+
+
+Name: res/drawable-xxhdpi-v4/re_icon.png
 SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
 
 
-Name: res/drawable/ic_launcher.png
+Name: res/drawable-xhdpi-v4/re_icon.png
 SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
 
 
@@ -17,28 +21,60 @@ Name: res/drawable-xhdpi-v4/ic_action_save.png
 SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
 
 
-Name: res/drawable-xxhdpi-v4/ic_launcher.png
-SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
+Name: res/drawable/re_icon_round.png
+SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+
+
+Name: res/drawable-xxhdpi-v4/shortcut_n.png
+SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
 
 
 Name: res/drawable/ic_action_new.png
 SHA1-Digest: 9fmlRBlj1HWfcovYHxtiTP663ws=
 
 
+Name: res/drawable-xhdpi-v4/re_icon_round.png
+SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+
+
+Name: res/drawable/shortcut_n.png
+SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+
+
 Name: res/drawable/ic_action_save.png
 SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
 
 
-Name: res/drawable-hdpi-v4/ic_launcher.png
+Name: res/drawable-hdpi-v4/re_icon.png
 SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
 
 
+Name: res/drawable-xhdpi-v4/shortcut_n.png
+SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+
+
+Name: res/drawable/re_icon.png
+SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
+
+
+Name: res/drawable-xxhdpi-v4/re_icon_round.png
+SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+
+
 Name: AndroidManifest.xml
-SHA1-Digest: zRwctDuEcA+XZnoeimec/IebkIg=
+SHA1-Digest: JihyXrT+yfPTpJDRGfnZsU5dSkU=
+
+
+Name: res/drawable-hdpi-v4/shortcut_n.png
+SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+
+
+Name: res/drawable-hdpi-v4/re_icon_round.png
+SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
 
 
 Name: resources.arsc
-SHA1-Digest: mnQiVZ9jrP3y7JyHc3hEY0hGv5I=
+SHA1-Digest: SUFhaHzTTdeOofdRn+xqH0Y2hhE=
 
 
 Name: res/drawable-hdpi-v4/ic_action_save.png

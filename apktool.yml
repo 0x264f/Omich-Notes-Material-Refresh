@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: Omich Notes (build 1.1.0).apk
+apkFileName: Omich Notes (build 1.2.0).apk
 compressionType: false
 doNotCompress:
 - arsc
@@ -17,7 +17,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 1.1.0
+version: 1.2.0
 versionInfo:
-  versionCode: '1100'
-  versionName: 1.1.0
+  versionCode: '1200'
+  versionName: 1.2.0

@@ -2,7 +2,9 @@
 <resources>
     <public type="drawable" name="ic_action_new" id="0x7f020000" />
     <public type="drawable" name="ic_action_save" id="0x7f020001" />
-    <public type="drawable" name="ic_launcher" id="0x7f020002" />
+    <public type="drawable" name="re_icon" id="0x7f020002" />
+    <public type="drawable" name="re_icon_round" id="0x7f020003" />
+    <public type="drawable" name="shortcut_n" id="0x7f020004" />
     <public type="string" name="caption" id="0x7f030000" />
     <public type="string" name="caption_main" id="0x7f030001" />
     <public type="string" name="caption_editor" id="0x7f030002" />
@@ -21,5 +23,7 @@
     <public type="string" name="text_rename" id="0x7f03000f" />
     <public type="string" name="dialog_button_yes" id="0x7f030010" />
     <public type="string" name="dialog_button_no" id="0x7f030011" />
+    <public type="string" name="shortcut_label_1" id="0x7f030012" />
     <public type="style" name="Theme" id="0x7f040000" />
+    <public type="xml" name="shortcuts" id="0x7f050000" />
 </resources>
