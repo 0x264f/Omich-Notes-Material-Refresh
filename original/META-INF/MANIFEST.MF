@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: 1.0 (MT)
 
 Name: res/xml/shortcuts.xml
-SHA1-Digest: s6v6R5qthS+5EDDBaTX4Ss0VlYE=
+SHA1-Digest: bJulj7h0I+fbpePq1L8d/O20leg=
 
 
 Name: res/drawable-xxhdpi-v4/re_icon.png
@@ -10,7 +10,7 @@ SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
 
 
 Name: res/drawable-xhdpi-v4/re_icon.png
-SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
+SHA1-Digest: JjSx4NEqaLxFPzBgEPAIqP1wW9Y=
 
 
 Name: res/drawable-xhdpi-v4/ic_action_new.png
@@ -22,39 +22,39 @@ SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
 
 
 Name: res/drawable/re_icon_round.png
-SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+SHA1-Digest: MqJEdS2vuw3zoTxmz9p/nd4x1W4=
 
 
 Name: res/drawable-xxhdpi-v4/shortcut_n.png
-SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+SHA1-Digest: OwYdlER1ed8BUfRe9XX8rzPQnk4=
 
 
 Name: res/drawable/ic_action_new.png
-SHA1-Digest: 9fmlRBlj1HWfcovYHxtiTP663ws=
+SHA1-Digest: Hg2b4B5E9JI/fjADx2MJtVuz1+g=
 
 
 Name: res/drawable-xhdpi-v4/re_icon_round.png
-SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+SHA1-Digest: z6Oc34NEJfUIW9eyYGuWiS3upLU=
 
 
 Name: res/drawable/shortcut_n.png
-SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+SHA1-Digest: p8XpQd0zCDXms3mYMEksapI8ZRY=
 
 
 Name: res/drawable/ic_action_save.png
-SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
+SHA1-Digest: Txfmv1QL6+IhVaLuOGZ/8CeNtFk=
 
 
 Name: res/drawable-hdpi-v4/re_icon.png
-SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
+SHA1-Digest: gJWtLjjZJXyrQoMUzNVVPDTGCd0=
 
 
 Name: res/drawable-xhdpi-v4/shortcut_n.png
-SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
+SHA1-Digest: qZvn1RECJCMeJKpcacr/q7Mpwrc=
 
 
 Name: res/drawable/re_icon.png
-SHA1-Digest: nAWTw/BzdkA08xKPjNw0pem1l+s=
+SHA1-Digest: B8QtTmB/KSQsA5SIwneRCJOLAwo=
 
 
 Name: res/drawable-xxhdpi-v4/re_icon_round.png
@@ -62,7 +62,7 @@ SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
 
 
 Name: AndroidManifest.xml
-SHA1-Digest: JihyXrT+yfPTpJDRGfnZsU5dSkU=
+SHA1-Digest: q2yN8t7fSeqluviPuJtPiXm+uV8=
 
 
 Name: res/drawable-hdpi-v4/shortcut_n.png
@@ -70,7 +70,7 @@ SHA1-Digest: REniRovNaAwoxjn6hkwn7KQEhCo=
 
 
 Name: res/drawable-hdpi-v4/re_icon_round.png
-SHA1-Digest: BbWbh45U3IVrN1YgDhOZNLs759Q=
+SHA1-Digest: Ug9Ds2m1+iaULDq8hAX61jvJOUs=
 
 
 Name: resources.arsc
@@ -78,22 +78,22 @@ SHA1-Digest: SUFhaHzTTdeOofdRn+xqH0Y2hhE=
 
 
 Name: res/drawable-hdpi-v4/ic_action_save.png
-SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
+SHA1-Digest: 71aZ2lggatGA0PpVmH2B0egDdGY=
 
 
 Name: classes.dex
-SHA1-Digest: S6AuH4dfEP/QSINsPJaPbGzy0Kw=
+SHA1-Digest: gYnF+oYGFvfEnOs/jXbtBF3yXwQ=
 
 
 Name: res/drawable-xxhdpi-v4/ic_action_save.png
-SHA1-Digest: A74rZs6DoB4w6cv0aiSJMYIWu/E=
+SHA1-Digest: 62xr91TZ4VKZixkyydpr/82Px5k=
 
 
 Name: res/drawable-hdpi-v4/ic_action_new.png
-SHA1-Digest: 9fmlRBlj1HWfcovYHxtiTP663ws=
+SHA1-Digest: Ss4jBylY0Wnk81NVCWpvTb6ysCQ=
 
 
 Name: res/drawable-xxhdpi-v4/ic_action_new.png
-SHA1-Digest: 9fmlRBlj1HWfcovYHxtiTP663ws=
+SHA1-Digest: TNHsH/dFdJ+GJIu8a71X7airhME=
 
 

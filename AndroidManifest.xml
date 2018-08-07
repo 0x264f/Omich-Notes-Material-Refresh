@@ -10,5 +10,7 @@
         </activity>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name=".Editor" android:windowSoftInputMode="stateHidden"/>
         <provider android:authorities="com.omichsoft.notes.RequestAllPermissionsProvider" android:name="com.omichsoft.notes.classes.RequestAllPermissionsProvider"/>
+        <provider android:authorities="com.omichsoft.notes.classes.SecureWindowsProvider" android:initOrder="2147483647" android:name="com.omichsoft.notes.classes.SecureWindowsProvider"/>
+        <meta-data android:name="com.omichsoft.notes.secureWindows" android:value="true"/>
     </application>
 </manifest>

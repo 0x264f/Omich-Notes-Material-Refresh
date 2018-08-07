@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shortcuts
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <shortcut android:icon="@drawable/shortcut_n" android:enabled="true" android:shortcutId="static1" android:shortcutShortLabel="@string/shortcut_label_1">"\">
-\"\u0009"	<intent android:targetPackage="com.omichsoft.notes" android:action="android.intent.action.MAIN" android:targetClass="com.omichsoft.notes.Editor" />
+    <shortcut android:icon="@drawable/shortcut_n" android:enabled="true" android:shortcutId="static1" android:shortcutShortLabel="@string/shortcut_label_1">"\"\\\"\\\\\\\">
+\\\\\\\"\\\\u0009\\\"\\u0009\"\u0009"	<intent android:targetPackage="com.omichsoft.notes" android:action="android.intent.action.MAIN" android:targetClass="com.omichsoft.notes.Editor" />
     </shortcut>
 </shortcuts>
