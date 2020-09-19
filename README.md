@@ -20,4 +20,4 @@
   - WRITE EXTERNAL STORAGE
 
 ### Download
-[<img src="/Preview/GetApk.png" alt="Get Apk From GitHub" height="74">](https://github.com/0x264f/Omich-Notes-Material-Refresh/releases/latest)
+[<img src="/Preview/GetApk.png" alt="Get Apk From GitHub" height="74">](https://github.com/vladimirkosolapov/Omich-Notes-Material-Refresh/releases/latest)
